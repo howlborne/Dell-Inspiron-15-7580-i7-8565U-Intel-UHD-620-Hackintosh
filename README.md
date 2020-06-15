@@ -1,4 +1,4 @@
-# waysi420
+# Dell-Inspiron-15-7580-i7-8565U-Intel-UHD-620-Hackintosh
 
 Hey guys. Here's the EFI folder for Catalina Hackintosh for Dell Inspiron 15 7580 i7 8565U Intel UHD 620.
 
